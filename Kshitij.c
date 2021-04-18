@@ -1,6 +1,5 @@
-/*Delhi Technological University
+/*
 Project Made by :- Kshitij (2k20-BT-510) 
-Submitted To:- Ritu Aggarwal
 */ 
 
 
